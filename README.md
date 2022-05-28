@@ -6,7 +6,6 @@ PST and JEST test's pass candidates passing, and separating the Tulka or distric
 
 ```text
 pip install pandas 
-
 ```
 
 if You found this Helpful, please star :star: it.
